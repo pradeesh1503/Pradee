@@ -1,2 +1,0 @@
-# Pradee
-Always code
